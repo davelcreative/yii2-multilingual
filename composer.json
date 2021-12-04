@@ -14,7 +14,7 @@
             "yeesoft\\multilingual\\": "src"
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "yiisoft/yii2": "~2.0.6"
     },
